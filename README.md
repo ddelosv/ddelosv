@@ -7,7 +7,7 @@
 
 🎊 Hello world!
 
-A rookie OIer 🚀🥬 ISFJ-T.
+ 🚀🥬 
 
 
 
