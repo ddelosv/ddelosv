@@ -11,10 +11,6 @@
 
 
 
-
-- :memo: [Blog](https://) :card_index: [Portfolio](https://) 
-- : bucket [peach](https://github.com/ddelosv).
-
 <details>
 
 <summary>My GitHub Stats</summary>
